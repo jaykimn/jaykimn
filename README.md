@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jaykimn
+- 👋 All about Jaehyun
 - 👀 I’m interested in **_languages all around the world_**
 - 🌱 I’m currently learning **_THIS_**
 - 💞️ I’m looking to collaborate on ...
